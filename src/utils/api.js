@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'YOUR_API_KEY'; // Replace with your actual API key
+const API_KEY = 'fc54c69f112cedd9df0c48b7'; // Replace with your actual API key
 
 export const fetchExchangeRates = async (baseCurrency = 'USD') => {
   try {
